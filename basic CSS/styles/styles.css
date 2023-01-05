@@ -1,0 +1,20 @@
+h3{
+    color: chartreuse;
+}
+.header{
+    text-align: center;
+    height:200px;
+    background-image: url('../baby.webp');
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blog{
+    background-color: rgb(5, 12, 210);
+    text-align: center;
+    border-radius:20px;
+    padding: 2px yellow;
+    margin: 20px;
+    text-decoration: none;
+    box-shadow: 10px 10px grey;
+}
